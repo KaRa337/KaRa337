@@ -36,8 +36,7 @@ All reports are in [soc-lab-writeups](https://github.com/KaRa/soc-lab-writeups).
 | Brutus | Hack The Box Sherlock | SSH brute force, wtmp, persistence | [Read](https://github.com/KaRa337/soc-lab-writeups/tree/main/brutus) |
 | Hammered | CyberDefenders | Linux auth.log, attacking IPs | [Read](https://github.com/KaRa337/soc-lab-writeups/tree/main/hammered) |
 | Logjammer | Hack The Box Sherlock | Windows Event Logs, firewall and audit changes | [Read](https://github.com/KaRa/soc-lab-writeups/tree/main/logjammer) |
-| XlmRat | CyberDefenders | RAT investigation | [Read](https://github.com/KaRa/soc-lab-writeups/tree/main/xlmrat) |
-| Compromised WordPress | Blue Team Labs Online | Web server log analysis | [Read](https://github.com/KaRa/soc-lab-writeups/tree/main/wordpress-compromise) |
+
 
 ## Currently learning
 
