@@ -36,7 +36,7 @@ All reports are in [soc-lab-writeups](https://github.com/KaRa/soc-lab-writeups).
 | Brutus | Hack The Box Sherlock | SSH brute force, wtmp, persistence | [Read](https://github.com/KaRa337/soc-lab-writeups/tree/main/brutus) |
 | Hammered | CyberDefenders | Linux auth.log, attacking IPs | [Read](https://github.com/KaRa337/soc-lab-writeups/tree/main/hammered) |
 | Logjammer | Hack The Box Sherlock | Windows Event Logs, firewall and audit changes | [Read](https://github.com/KaRa/soc-lab-writeups/tree/main/logjammer) |
-
+| [Unit42](unit42/README.md) | Hack The Box Sherlock | Sysmon .evtx (Splunk) | Process creation, DNS, file creation, process tree 
 
 ## Currently learning
 
