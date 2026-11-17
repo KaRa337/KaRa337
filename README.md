@@ -29,7 +29,7 @@ I am looking for a Junior SOC / L1 analyst role. I study 8–10 hours a week.
 
 ## Featured write-ups
 
-All reports are in [soc-lab-writeups](https://github.com/KaRa/soc-lab-writeups). They are training labs, not work experience.
+All reports are in [soc-lab-writeups](https://github.com/KaRa337/soc-lab-writeups). They are training labs, not work experience.
 
 | Lab | Platform | Focus | Report |
 |---|---|---|---|
