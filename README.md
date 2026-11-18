@@ -37,6 +37,7 @@ All reports are in [soc-lab-writeups](https://github.com/KaRa337/soc-lab-writeup
 | Hammered | CyberDefenders | Linux auth.log, attacking IPs | [Read](https://github.com/KaRa337/soc-lab-writeups/tree/main/hammered) |
 | Logjammer | Hack The Box Sherlock | Windows Event Logs, firewall and audit changes | [Read](https://github.com/KaRa/soc-lab-writeups/tree/main/logjammer) |
 | Unit42 | Hack The Box Sherlock | Sysmon logs in Splunk, process tree, DNS | [Read](https://github.com/KaRa337/soc-lab-writeups/tree/main/unit42) |
+| Campfire-1 | Hack The Box Sherlock | Kerberoasting (4769), Windows Security logs, Prefetch | [Read](https://github.com/KaRa337/soc-lab-writeups/tree/main/campfire-1) | 
 
 ## Currently learning
 
